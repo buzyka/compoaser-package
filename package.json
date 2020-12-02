@@ -1,0 +1,8 @@
+{
+	"name": "packagist/test-p",
+	"version": "0.0.1",
+	"dist": {
+		        "url": "https://github.com/buzyka/compoaser-package/archive/main.zip",
+			"type": "zip"
+	}
+}
